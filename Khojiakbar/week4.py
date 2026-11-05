@@ -1,0 +1,7 @@
+a=("Hojiakbar")
+b=("18")
+print("My name is "+a)
+print(" Hojiakbar's hobby is playing football")
+print("Hojiakbar hates reading news")
+print(a+"years old")
+print("")
